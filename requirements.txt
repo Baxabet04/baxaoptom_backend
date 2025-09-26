@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 flask
 flask-cors
 requests
+=======
+flask
+flask-cors
+requests
+>>>>>>> e2b7fda (Add full backend with Flask)

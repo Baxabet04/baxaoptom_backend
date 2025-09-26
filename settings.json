@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "brand": "BaxaOptom",
   "card": "8600 1234 5678 9012",
@@ -7,4 +8,15 @@
   "brand": "",
   "card": "",
   "categories": []
+=======
+{
+  "brand": "BaxaOptom",
+  "card": "8600 1234 5678 9012",
+  "categories": ["shimlar", "koftalar", "kepkalar", "palto"]
+}
+{
+  "brand": "",
+  "card": "",
+  "categories": []
+>>>>>>> e2b7fda (Add full backend with Flask)
 }
