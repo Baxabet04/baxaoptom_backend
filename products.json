@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Klassik Qora Shim",
+    "price": 139000,
+    "image": "images/shim1.jpg",
+    "category": "shimlar",
+    "discount": null
+  },
+  {
+    "id": 2,
+    "title": "Sport Shim",
+    "price": 159000,
+    "discount": 119000,
+    "image": "images/shim2.jpg",
+    "category": "shimlar"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Shim qora",
+    "items": ["Shim qora"],
+    "type": "shim",
+    "price": 199000,
+    "discount": 10,
+    "size": "48",
+    "phone": "+998901234567",
+    "payment": "click",
+    "timestamp": "2025-09-25 09:05",
+    "status": "new"
+  },
+  {
+    "id": 2,
+    "name": "Kepka oq",
+    "items": ["Kepka oq"],
+    "type": "kepka",
+    "price": 55000,
+    "discount": 0,
+    "size": "-",
+    "phone": "+998935678901",
+    "payment": "cash",
+    "timestamp": "2025-09-25 09:06",
+    "status": "new"
+  },
+  {
+    "id": 3,
+    "name": "Futbolka qora",
+    "items": ["Futbolka qora"],
+    "type": "futbolka",
+    "price": 105000,
+    "discount": 5,
+    "size": "50",
+    "phone": "+998998765432",
+    "payment": "click",
+    "timestamp": "2025-09-25 09:07",
+    "status": "new"
+  }
+]
